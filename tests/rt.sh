@@ -840,8 +840,8 @@ case ${MACHINE_ID} in
     QUEUE="batch"
     COMPILE_QUEUE="batch"
     PARTITION="hercules"
-    dprefix="/work2/noaa/stmp/${USER}"
-    DISKNM="/work/noaa/epic/hercules/UFS-WM_RT"
+    dprefix="/work2/noaa/nos-surge/${USER}/duck/duck_From_Dan_03312025/"
+    DISKNM="/work2/noaa/nems/tufuk/RT/"
     STMP="${dprefix}/stmp"
     PTMP="${dprefix}/stmp"
 
